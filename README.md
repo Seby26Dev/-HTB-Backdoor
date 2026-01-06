@@ -149,6 +149,7 @@ curl http://10.10.11.125/wp-content/plugins/ebook-download/filedownload.php?eboo
 <img width="948" height="663" alt="image" src="https://github.com/user-attachments/assets/69c3708c-144c-4277-9d02-e83c44e26d5c" />
 
 -> Target User: user (UID 1000)
+
 -> Root: root (UID 0)
 
 # Deep Enumeration: Hunting the Backdoor
